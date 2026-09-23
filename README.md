@@ -33,3 +33,5 @@ We should approve the pilot program featuring seven days of promotions, with the
 
 # Dashboard Project
 This is the [DASHBOARD](https://datastudio.google.com/reporting/383fd977-2d13-4bef-b632-7a6b1544a2c8) presented to Jacob.
+
+Ahmed Mohamed. (2024). Retail Store Sales: Dirty for Data Cleaning [Dataset]. Kaggle. https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning
