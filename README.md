@@ -30,3 +30,6 @@ The risks facing Jacobo’s Store are as follows:
 
 ## Great idea
 We should approve the pilot program featuring seven days of promotions, with the strongest promotions running from Friday through Sunday, leveraging sales of our seven best-selling products to boost overall sales, achieving 8% growth compared to 2024, and reducing the number of slow-moving items.
+
+# Dashboard Project
+This is the [DASHBOARD](https://datastudio.google.com/reporting/383fd977-2d13-4bef-b632-7a6b1544a2c8) presented to Jacob.
